@@ -1,3 +1,3 @@
 
-Taller de introducción sobre git y github
+Taller de introducción sobre git y github - modificado
 Configuración de Ramas
